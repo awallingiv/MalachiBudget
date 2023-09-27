@@ -13,7 +13,8 @@ namespace MalachiBudget
     {
         public static string Encrypt(string clearText)
         {
-            string EncryptionKey = "th@tsD0p3LORD";
+               //put your key to be used for encryption here
+            string EncryptionKey = "YourKeyHere";
             byte[] clearBytes = Encoding.Unicode.GetBytes(clearText);
             using (Aes encryptor = Aes.Create())
             {
