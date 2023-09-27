@@ -116,7 +116,7 @@ namespace MalachiBudget
             smtp.Port = 587;
             //smtp.Timeout = 10000;
             //smtp.UseDefaultCredentials = false;
-            smtp.Credentials = new NetworkCredential("support@malachibudget.com", "EMLsupp12#$");
+            smtp.Credentials = new NetworkCredential("_EMAIL_ADDRESS_", "_EMAIL_PASS");
             smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
             smtp.EnableSsl = true;
 
@@ -325,7 +325,7 @@ namespace MalachiBudget
             smtp.Port = 587;
             //smtp.Timeout = 10000;
             //smtp.UseDefaultCredentials = false;
-            smtp.Credentials = new NetworkCredential("support@malachibudget.com", "EMLsupp12#$");
+            smtp.Credentials = new NetworkCredential("_EMAIL_ADDRESS_, "_EMAIL_PASS");
             smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
             smtp.EnableSsl = true;
 
