@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="MalachiBudget.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+            <section name="MalachiBudget.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <userSettings>
+        <MalachiBudget.Properties.Settings>
+            <setting name="Theme" serializeAs="String">
+                <value>2</value>
+            </setting>
+            <setting name="CustomRange" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="TithePercent" serializeAs="String">
+                <value>10</value>
+            </setting>
+            <setting name="dtpFromDef" serializeAs="String">
+                <value>2022-10-01</value>
+            </setting>
+            <setting name="dtpToDef" serializeAs="String">
+                <value>2022-10-01</value>
+            </setting>
+            <setting name="cmbYearVal" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="cmbMonthVal" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="loginUser" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="loginPass" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="rememberMe" serializeAs="String">
+                <value>False</value>
+            </setting>
+        </MalachiBudget.Properties.Settings>
+        <MalachiBudget.Properties.Settings>
+            <setting name="Theme" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="CustomRange" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="TithePercent" serializeAs="String">
+                <value>10</value>
+            </setting>
+            <setting name="User" serializeAs="String">
+                <value>none</value>
+            </setting>
+            <setting name="dtpFromDef" serializeAs="String">
+                <value>2022-10-01</value>
+            </setting>
+            <setting name="dtpToDef" serializeAs="String">
+                <value>2022-10-01</value>
+            </setting>
+        </MalachiBudget.Properties.Settings>
+    </userSettings>
+</configuration>
