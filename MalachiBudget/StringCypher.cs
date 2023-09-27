@@ -35,7 +35,7 @@ namespace MalachiBudget
         }
         public static string Decrypt(string cipherText)
         {
-            string EncryptionKey = "th@tsD0p3LORD";
+            string EncryptionKey = "YourKeyHere";
             cipherText = cipherText.Replace(" ", "+");
             byte[] cipherBytes = Convert.FromBase64String(cipherText);
             using (Aes encryptor = Aes.Create())
