@@ -48,7 +48,7 @@ namespace MalachiBudget
                     ex.ToString();
                 }
                 
-            //
+            // These are now useless, but I stored encrypted strings here for these values and then decrypted them at execution
             string dummyIP = "wLXoGks0fnJ13lOJkoi6dK/9t0";      //test ip
             string dummyUser = "Pr7YOaL0CvkNac0M/RRbBQ==";      //new user
             string dummyPass = "O6QletsAUBxItkkwyxhSR6NG";      //new pass
