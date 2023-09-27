@@ -50,16 +50,7 @@ namespace MalachiBudget
             string dummyPass = "O6QletsAUBxItkkwyxhSR6NGMl/XxqYGoXt8Fy/2Z/F93LtwEWwsXDQ2tScEhlQGMc0LhPVyNHsLHfS+1GBJDQ==";      //new pass
             string dummyDB = "aqXbtw+u3H5Z5KwcEH86w35faamKGyOddUundp7pnVY=";                                                    //test db
             string dummyport = "x7HfjBiQi2H+KNqL/wVBiA==";
-
-            //string dummyIP = "AfhcFBfTqRBMYUz8JmloPcu7pZl1INuRdBnp0POA7xo=";                                                    //prod ip
-            //string dummyUser = "UkxjnjhyPG4yxA+iXul2gnf0/KQUfp16R7BZ2SrQO/uVlyJZpsTTfJLcVhXIkPkd";                              //prod user
-            //string dummyPass = "AWpnZxmLTTtSaECOOhot/96jw9M0OLitxUIhVKzzR8E=";                                                  //prod pass
-            //string dummyDB = "UkxjnjhyPG4yxA+iXul2glvh0dSzrYpQaRRgCl3rhzvo8/zgUBN14r+c7Jy7lFcAnzCqkkdeAxbfKiqs3R0kMg==";        //prod db
-
-            //string dummyIP = "hQQFMngxXZmdl+l9WyaUL6CivWp59BmLj1+agBb52IU="                       //test ip
-            //string dummyUser = "OGV0Cc+OgLf4ByaEB0x73A==";                                        //test user
-            //string dummyPass = "AWpnZxmLTTtSaECOOhot/+M1PwAMZ03GYciLPJ7L0w4=";                    //test pass
-            //string dummyDB = "wxoOY45U5SRS12V99EuYptDvoYd02LIo8m37bEuNODzgJV2J8++gqBeP0EAb5ehF";  //test db
+           
 
             try
             {
