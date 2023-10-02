@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS `Users` (
   `Pass` varchar(16) NOT NULL,
   `Email` varchar(45) NOT NULL,
   `Name` varchar(25) DEFAULT NULL,
-  `Validated` tinyint(4) DEFAULT NULL,
+  `Validated` int DEFAULT NULL,
   `ValidationCode` varchar(7) DEFAULT NULL,
   `TransID` datetime DEFAULT NULL,
   PRIMARY KEY (`Email`,`Username`)
