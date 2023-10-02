@@ -1,5 +1,5 @@
---Austin Walling--
---SQL Table Creation Script for MalachiBudget Application
+-- Austin Walling--
+-- SQL Table Creation Script for MalachiBudget Application
 
 
 -- 
